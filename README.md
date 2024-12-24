@@ -35,5 +35,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruv-pahwa&show_icons=true&locale=en" alt="dhruv-pahwa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv-pahwa&" alt="dhruv-pahwa" /></p>
 
