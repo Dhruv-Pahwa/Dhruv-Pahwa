@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-pahwa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-pahwa" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruv-pahwa" alt="dhruv-pahwa" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-pahwa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-pahwa" /> </p>
+
 - 🔭 I’m currently working at **Infosys**
 
 - 🌱 I’m currently learning **Data Science, Deep Learning, NLP, AI**
