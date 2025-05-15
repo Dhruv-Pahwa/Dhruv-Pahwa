@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv-pahwa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-pahwa" /> </p>
 
-- 🔭 I’m currently working at **Infosys**
+- 🔭 I’m currently working at **DRDO, Ministry of Defense**
 
 - 🌱 I’m currently learning **Data Science, Deep Learning, NLP, AI**
   
