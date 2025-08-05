@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning **Data Science, Deep Learning, NLP, AI**
   
-- 👯 I’m looking to collaborate on **Machine Learning**
+- 👯 I’m looking to collaborate on **Machine Learning** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruv-Pahwa](https://github.com/Dhruv-Pahwa)
 
