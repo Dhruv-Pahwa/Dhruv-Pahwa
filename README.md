@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pahwa</h1>
 <h3 align="center">A Data Science and AI student from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif](https://tenor.com/search/computer-kid-gifs)">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/A-ozELwp694AAAAC/thumbs-thumbs-up-kid.gif">
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=dhruv-pahwa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-pahwa" /> </p>
 
