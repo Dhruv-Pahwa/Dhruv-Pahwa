@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working at **IIT Roorkee**
  
-- 🌱 I’m currently learning **Data Science, Gen AI, Agentic AI**
+- 🌱 I’m currently learning **Data Science, ML, DL, NLP, Gen AI, Agentic AI**
   
 - 👯 I’m looking to collaborate on **Machine Learning** 
  
