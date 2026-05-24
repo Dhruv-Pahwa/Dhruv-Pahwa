@@ -50,7 +50,8 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display:flex; gap:15px; flex-wrap:wrap; align-items:center;">
+
+<p align="left" style="display:flex; gap:12px; flex-wrap:nowrap; align-items:center; overflow-x:auto;">
 
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
 
