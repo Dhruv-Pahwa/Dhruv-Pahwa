@@ -104,26 +104,10 @@
 
 # 📊 GitHub Stats:
 
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Dhruv-Pahwa&theme=dark&hide_border=false&include_all_commits=false&count_private=false"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p>
-  <img
-    src="https://nirzak-streak-stats.vercel.app/?user=Dhruv-Pahwa&theme=dark&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Pahwa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
-    alt="Top Languages"
-  />
-</p>
+![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 ### ✍️ Random Dev Quote
 
