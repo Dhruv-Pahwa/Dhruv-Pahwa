@@ -104,7 +104,7 @@
 
 # 📊 GitHub Stats:
 
-[![Dhruv's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dhruv-Pahwa)](https://github.com/stats-organization/github-stats-extended)
+![Dhruv's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Dhruv-Pahwa&show_icons=true&theme=transparent)
 
 ### ✍️ Random Dev Quote
 
