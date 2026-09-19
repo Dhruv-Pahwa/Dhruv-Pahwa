@@ -104,10 +104,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/overview.svg#gh-light-mode-only)
-![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![](https://github.com/Dhruv-Pahwa/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[![Dhruv's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dhruv-Pahwa)](https://github.com/stats-organization/github-stats-extended)
 
 ### ✍️ Random Dev Quote
 
