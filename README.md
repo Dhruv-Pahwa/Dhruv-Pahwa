@@ -113,8 +113,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dhruv-Pahwa&icon=0&color=2" alt="Profile Views"/>
-</p>
-
