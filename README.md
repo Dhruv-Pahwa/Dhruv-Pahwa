@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Pahwa</h1>
 
-<h3 align="center">Corporate Slave from India</h3>
+<h3 align="center">Product Manager from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif">
 
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=dhruv-pahwa&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv-pahwa" />
 </p>
 
-* 🔭 I’m currently working at **No Where (Unemployed)**
+* 🔭 I’m currently working at **Ambak**
 * 🌱 I’m currently learning **Data Science, ML, DL, NLP, Gen AI, Agentic AI**
 * 👯 I’m looking to collaborate on **Machine Learning**
 * 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Dhruv-Pahwa)**
