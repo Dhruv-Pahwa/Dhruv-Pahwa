@@ -9,7 +9,7 @@
 </p>
 
 * 🔭 I’m currently working at **Ambak**
-* 🌱 I’m currently learning **Data Science, ML, DL, NLP, Gen AI, Agentic AI**
+* 🌱 I’m currently learning **Data Science, ML, DL, NLP, Gen AI, Agentic AI, Product Management**
 * 👯 I’m looking to collaborate on **Machine Learning**
 * 👨‍💻 All of my projects are available at **[GitHub](https://github.com/Dhruv-Pahwa)**
 * 💬 Ask me about **Python, Machine Learning, Data Science**
